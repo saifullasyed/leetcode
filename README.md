@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saifullasyed/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saifullasyed/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saifullasyed/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saifullasyed/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saifullasyed/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saifullasyed/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
