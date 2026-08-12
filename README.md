@@ -40,6 +40,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saifullasyed/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/saifullasyed/leetcode/tree/master/0010-regular-expression-matching) |
+| [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,4 +73,16 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saifullasyed/leetcode/tree/master/0100-same-tree) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
