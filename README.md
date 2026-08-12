@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saifullasyed/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/saifullasyed/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saifullasyed/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saifullasyed/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saifullasyed/leetcode/tree/master/0035-search-insert-position) |
@@ -22,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saifullasyed/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saifullasyed/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saifullasyed/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saifullasyed/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -34,6 +36,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saifullasyed/leetcode/tree/master/0015-3sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saifullasyed/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
