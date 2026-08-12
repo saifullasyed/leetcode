@@ -42,6 +42,7 @@
 | [0010-regular-expression-matching](https://github.com/saifullasyed/leetcode/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/saifullasyed/leetcode/tree/master/0071-simplify-path) |
+| [0093-restore-ip-addresses](https://github.com/saifullasyed/leetcode/tree/master/0093-restore-ip-addresses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/saifullasyed/leetcode/tree/master/0071-simplify-path) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/saifullasyed/leetcode/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
