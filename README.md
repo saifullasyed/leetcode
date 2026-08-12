@@ -41,6 +41,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/saifullasyed/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/saifullasyed/leetcode/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/saifullasyed/leetcode/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/saifullasyed/leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
