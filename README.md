@@ -90,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/saifullasyed/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/saifullasyed/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
