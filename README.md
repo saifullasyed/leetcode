@@ -22,6 +22,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/saifullasyed/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/saifullasyed/leetcode/tree/master/0036-valid-sudoku) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saifullasyed/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/saifullasyed/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,10 +52,12 @@
 | [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/saifullasyed/leetcode/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/saifullasyed/leetcode/tree/master/0093-restore-ip-addresses) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/saifullasyed/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saifullasyed/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/saifullasyed/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
