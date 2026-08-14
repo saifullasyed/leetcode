@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/saifullasyed/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saifullasyed/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/saifullasyed/leetcode/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/saifullasyed/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/saifullasyed/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saifullasyed/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/saifullasyed/leetcode/tree/master/0283-move-zeroes) |
@@ -89,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/saifullasyed/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
