@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/saifullasyed/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saifullasyed/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/saifullasyed/leetcode/tree/master/0283-move-zeroes) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saifullasyed/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saifullasyed/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@
 | ------- |
 | [0015-3sum](https://github.com/saifullasyed/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/saifullasyed/leetcode/tree/master/0075-sort-colors) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saifullasyed/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saifullasyed/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saifullasyed/leetcode/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saifullasyed/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
