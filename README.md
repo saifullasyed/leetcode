@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/saifullasyed/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saifullasyed/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/saifullasyed/leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/saifullasyed/leetcode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/saifullasyed/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/saifullasyed/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saifullasyed/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saifullasyed/leetcode/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/saifullasyed/leetcode/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saifullasyed/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/saifullasyed/leetcode/tree/master/0045-jump-game-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
