@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/saifullasyed/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/saifullasyed/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/saifullasyed/leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saifullasyed/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saifullasyed/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/saifullasyed/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/saifullasyed/leetcode/tree/master/0283-move-zeroes) |
@@ -74,6 +75,7 @@
 | [0010-regular-expression-matching](https://github.com/saifullasyed/leetcode/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/saifullasyed/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/saifullasyed/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saifullasyed/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
 | ------- |
