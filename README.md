@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/saifullasyed/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saifullasyed/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/saifullasyed/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/saifullasyed/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saifullasyed/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saifullasyed/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saifullasyed/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -32,6 +33,7 @@
 | [0001-two-sum](https://github.com/saifullasyed/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saifullasyed/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/saifullasyed/leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/saifullasyed/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/saifullasyed/leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/saifullasyed/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saifullasyed/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -92,6 +94,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/saifullasyed/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/saifullasyed/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/saifullasyed/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Tree
 |  |
 | ------- |
