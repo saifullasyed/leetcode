@@ -23,6 +23,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saifullasyed/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saifullasyed/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saifullasyed/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/saifullasyed/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/saifullasyed/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saifullasyed/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saifullasyed/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -39,6 +40,7 @@
 | [0073-set-matrix-zeroes](https://github.com/saifullasyed/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saifullasyed/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saifullasyed/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/saifullasyed/leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/saifullasyed/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saifullasyed/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saifullasyed/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -66,6 +68,7 @@
 | [0075-sort-colors](https://github.com/saifullasyed/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/saifullasyed/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saifullasyed/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/saifullasyed/leetcode/tree/master/0229-majority-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saifullasyed/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saifullasyed/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
@@ -178,8 +181,10 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saifullasyed/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/saifullasyed/leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saifullasyed/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/saifullasyed/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
