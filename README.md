@@ -27,6 +27,7 @@
 | [0283-move-zeroes](https://github.com/saifullasyed/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saifullasyed/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saifullasyed/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/saifullasyed/leetcode/tree/master/0724-find-pivot-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saifullasyed/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/saifullasyed/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saifullasyed/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/saifullasyed/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/saifullasyed/leetcode/tree/master/0724-find-pivot-index) |
 ## Counting
 |  |
 | ------- |
