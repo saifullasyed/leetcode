@@ -89,6 +89,7 @@
 | [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/saifullasyed/leetcode/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/saifullasyed/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0412-fizz-buzz](https://github.com/saifullasyed/leetcode/tree/master/0412-fizz-buzz) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saifullasyed/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -140,6 +141,7 @@
 | [0009-palindrome-number](https://github.com/saifullasyed/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/saifullasyed/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/saifullasyed/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/saifullasyed/leetcode/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/saifullasyed/leetcode/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
@@ -153,6 +155,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/saifullasyed/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/saifullasyed/leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/saifullasyed/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saifullasyed/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
