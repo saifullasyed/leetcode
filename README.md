@@ -30,6 +30,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/saifullasyed/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/saifullasyed/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/saifullasyed/leetcode/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/saifullasyed/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saifullasyed/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/saifullasyed/leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/saifullasyed/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -147,6 +148,7 @@
 | [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/saifullasyed/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/saifullasyed/leetcode/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/saifullasyed/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/saifullasyed/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3870-count-commas-in-range](https://github.com/saifullasyed/leetcode/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
