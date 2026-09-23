@@ -31,6 +31,7 @@
 | [0704-binary-search](https://github.com/saifullasyed/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/saifullasyed/leetcode/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saifullasyed/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/saifullasyed/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saifullasyed/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/saifullasyed/leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/saifullasyed/leetcode/tree/master/1512-number-of-good-pairs) |
