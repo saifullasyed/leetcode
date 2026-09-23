@@ -32,6 +32,7 @@
 | [0724-find-pivot-index](https://github.com/saifullasyed/leetcode/tree/master/0724-find-pivot-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saifullasyed/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/saifullasyed/leetcode/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/saifullasyed/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/saifullasyed/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/saifullasyed/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saifullasyed/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -47,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/saifullasyed/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saifullasyed/leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/saifullasyed/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/saifullasyed/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saifullasyed/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saifullasyed/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
@@ -145,6 +147,7 @@
 | [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/saifullasyed/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/saifullasyed/leetcode/tree/master/0509-fibonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/saifullasyed/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3870-count-commas-in-range](https://github.com/saifullasyed/leetcode/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
@@ -207,6 +210,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/saifullasyed/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saifullasyed/leetcode/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/saifullasyed/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
