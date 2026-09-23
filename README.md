@@ -32,6 +32,7 @@
 | [0724-find-pivot-index](https://github.com/saifullasyed/leetcode/tree/master/0724-find-pivot-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saifullasyed/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/saifullasyed/leetcode/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/saifullasyed/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/saifullasyed/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saifullasyed/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saifullasyed/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -118,6 +119,7 @@
 | [0036-valid-sudoku](https://github.com/saifullasyed/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/saifullasyed/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/saifullasyed/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/saifullasyed/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Tree
 |  |
 | ------- |
