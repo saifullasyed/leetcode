@@ -51,6 +51,7 @@
 | [0229-majority-element-ii](https://github.com/saifullasyed/leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/saifullasyed/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/saifullasyed/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/saifullasyed/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saifullasyed/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saifullasyed/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
@@ -95,6 +96,7 @@
 | [0071-simplify-path](https://github.com/saifullasyed/leetcode/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/saifullasyed/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0412-fizz-buzz](https://github.com/saifullasyed/leetcode/tree/master/0412-fizz-buzz) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/saifullasyed/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saifullasyed/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
