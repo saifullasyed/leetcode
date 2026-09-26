@@ -39,6 +39,7 @@
 | [1929-concatenation-of-array](https://github.com/saifullasyed/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saifullasyed/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saifullasyed/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3978-unique-middle-element](https://github.com/saifullasyed/leetcode/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0169-majority-element](https://github.com/saifullasyed/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saifullasyed/leetcode/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/saifullasyed/leetcode/tree/master/1512-number-of-good-pairs) |
+| [3978-unique-middle-element](https://github.com/saifullasyed/leetcode/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
