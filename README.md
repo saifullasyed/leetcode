@@ -150,6 +150,7 @@
 | [0412-fizz-buzz](https://github.com/saifullasyed/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/saifullasyed/leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saifullasyed/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saifullasyed/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/saifullasyed/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/saifullasyed/leetcode/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/saifullasyed/leetcode/tree/master/3870-count-commas-in-range) |
@@ -159,6 +160,7 @@
 | [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/saifullasyed/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/saifullasyed/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saifullasyed/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
