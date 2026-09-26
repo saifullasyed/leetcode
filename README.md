@@ -151,6 +151,7 @@
 | [0509-fibonacci-number](https://github.com/saifullasyed/leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saifullasyed/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/saifullasyed/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/saifullasyed/leetcode/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/saifullasyed/leetcode/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
