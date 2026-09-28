@@ -154,6 +154,7 @@
 | [0067-add-binary](https://github.com/saifullasyed/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/saifullasyed/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/saifullasyed/leetcode/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saifullasyed/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saifullasyed/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saifullasyed/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/saifullasyed/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -212,6 +213,7 @@
 | [0206-reverse-linked-list](https://github.com/saifullasyed/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saifullasyed/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/saifullasyed/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saifullasyed/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Prefix Sum
 |  |
 | ------- |
